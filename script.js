@@ -6,4 +6,5 @@ function f1(){
 
 function f2(){
     console.log('Feature 2')
+    console.log('Feature 2 fix')
 }
