@@ -8,3 +8,7 @@ function f2(){
     console.log('Feature 2')
     console.log('Feature 2 fix')
 }
+
+function f3() {
+    console.log('Feature 3')
+}
