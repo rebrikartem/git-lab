@@ -12,4 +12,9 @@ function f2(){
 function rv1_0_0(){
     console.log('Release v1.0.0')
     console.log('Release v1.0.1')
+    console.log('Release v1.0.0 for develop')
+}
+
+function f3() {
+    console.log('Feature 3')
 }
