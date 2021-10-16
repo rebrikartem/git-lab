@@ -17,3 +17,7 @@ function rv1_0_0(){
 function ex1(){
     console.log('Ex1')
 }
+
+function ex2(){
+    console.log('Ex2')
+}
