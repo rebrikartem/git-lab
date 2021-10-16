@@ -21,3 +21,7 @@ function ex1(){
 function ex2(){
     console.log('Ex2')
 }
+
+function ex3(){
+    console.log('Ex3')
+}
